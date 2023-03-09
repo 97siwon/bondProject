@@ -1,22 +1,22 @@
 # BOND
-당신의 취미도 BOND로 시작하세요.<br>
+당신의 취미도 BOND로 시작하세요.<br><br>
 ## 🖥️ 프로젝트 소개
 > BOND는 같은 관심사를 가진 수많은 사람들이 모여 모임을 만들고 
 모임에 글과 이미지를 공유하고 그에 대한 생각과 정보를 나누며 서로 이야기를 나누는 공간, 
 일정 기능을 통해 모임의 정모를 정할 수 있는 공간입니다.
 
-BenchMarking : 네이버 밴드, 소모임<br>
+BenchMarking : 네이버 밴드, 소모임<br><br>
 ## 🔗 프로젝트 구조<br>
 ![project](https://user-images.githubusercontent.com/110653581/223979355-d3890851-f2db-4714-810d-79bc305bc26e.png)
 
 ## ⏱️ 개발 기간
-2022년 10월 18일 ~ 2022년 12월 10일<br>
+2022년 10월 18일 ~ 2022년 12월 10일<br><br>
 ## 🧑‍🤝‍🧑 멤버 구성
 [4인 팀프로젝트]<br>
 - 서도은 -로그인, 회원가입, 아이디,비밀번호 찾기, 모달창, 모임가입,탈퇴
 - 신충영 -관리자 페이지, 신고 처리, 접수, 일정 기능 
 - 이시원 -모임 찾기 검색 기능, 가입X 모임 조회, 카테고리별 모임 조회
-- 정현재 -모임 생성, 게시글 조회, 작성, 댓글, 앨범 사진 불러오기<br>
+- 정현재 -모임 생성, 게시글 조회, 작성, 댓글, 앨범 사진 불러오기<br><br>
 ## 🪄 사용 기술
 **Back-end**
 - Java 11
@@ -29,10 +29,11 @@ BenchMarking : 네이버 밴드, 소모임<br>
 
 **Front-end**
 - HTML/CSS
-- Javascript<br>
+- Javascript<br><br>
 ## 🏷️ ERD 설계
 ![206644146-b63977b9-e8ad-45f6-9d72-66abfcdd1c95](https://user-images.githubusercontent.com/110653581/223964484-548b0925-ba84-4253-9c87-50971b6bee4e.png)
 ERD 주소 : https://www.erdcloud.com/d/rH52AGzEpuXjv7vir
+<br><br>
 ## ⚙️ 핵심 기능
 <details markdown="1">
 <summary>접기/펼치기</summary>
@@ -57,7 +58,7 @@ ERD 주소 : https://www.erdcloud.com/d/rH52AGzEpuXjv7vir
   - [Sevice](https://github.com/97siwon/bondProject/blob/main/Bond/src/main/java/kh/semi/project/member/model/service/SearchServiceImpl.java#L20)
 <br>
 </details>
-
+<br>
 <h2>💣 트러블 슈팅</h2>
 <h3> DB 전체 삭제</h3>
 <blockquote> 학원에서 DB 서버를 업데이트하던 중 전체 DB 서버가 날라간 문제.
