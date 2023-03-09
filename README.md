@@ -39,10 +39,10 @@ ERD 주소 : https://www.erdcloud.com/d/rH52AGzEpuXjv7vir
 
 <br>
 1-1. 카테고리 별 모임<br>
-<img width="50%" src="https://user-images.githubusercontent.com/110653581/223965549-2f7e511a-0e05-444c-94ee-063351748889.png"/>
+<img width="50%" src="https://user-images.githubusercontent.com/110653581/223965549-2f7e511a-0e05-444c-94ee-063351748889.png"/><br>
 - 원하는 카테고리 선택 시 해당 카테고리 모임 추천 페이지로 이동
 - 가나다 순으로 조회
-[Controller](#)
+[Controller](#https://github.com/97siwon/bondProject/blob/f14332b1052756e5bb7b00ac9d012269103a4910/Bond/src/main/java/kh/semi/project/member/controller/findBondController.java#L36)
 [Service](#)
 <br>
 1-2. 모임 검색<br>
