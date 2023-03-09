@@ -34,19 +34,21 @@ ERD 주소 : https://www.erdcloud.com/d/rH52AGzEpuXjv7vir
 <details markdown="1">
 <summary>접기/펼치기</summary>
 
-1. 모임 찾기 페이지<br>
+### 1. 모임 찾기 페이지<br>
 <img width="50%" src="https://user-images.githubusercontent.com/110653581/223965275-a06bc621-d33a-4f99-a003-0a4c7d38c096.png"/>
-
 <br>
-1-1. 카테고리 별 모임<br>
+<br>
+### 1-1. 카테고리 별 모임<br>
 <img width="50%" src="https://user-images.githubusercontent.com/110653581/223965549-2f7e511a-0e05-444c-94ee-063351748889.png"/><br>
-- 원하는 카테고리 선택 시 해당 카테고리 모임 추천 페이지로 이동
-- 가나다 순으로 조회
-[Controller](#https://github.com/97siwon/bondProject/blob/f14332b1052756e5bb7b00ac9d012269103a4910/Bond/src/main/java/kh/semi/project/member/controller/findBondController.java#L36)
-[Service](#)
-<br>
-1-2. 모임 검색<br>
-<img width="50%" src="https://user-images.githubusercontent.com/110653581/223965575-5e9dee7e-042e-4c7a-86fa-1b85acfee249.png"/>
+- 원하는 카테고리 선택 시 해당 카테고리 모임 추천 페이지로 이동<br>
+- 가나다 순으로 조회<br>
+- [Controller](#https://github.com/97siwon/bondProject/blob/f14332b1052756e5bb7b00ac9d012269103a4910/Bond/src/main/java/kh/semi/project/member/controller/findBondController.java#L36)
+
+### 1-2. 모임 검색<br>
+<img width="50%" src="https://user-images.githubusercontent.com/110653581/223965575-5e9dee7e-042e-4c7a-86fa-1b85acfee249.png"/><br>
+- 본드 이름, 소개글이 포함된 단어 검색 시 검색 결과 화면으로 이동<br>
+- [Controller](#[https://github.com/97siwon/bondProject/blob/f14332b1052756e5bb7b00ac9d012269103a4910/Bond/src/main/java/kh/semi/project/member/controller/findBondController.java#L36](https://github.com/97siwon/bondProject/blob/main/Bond/src/main/java/kh/semi/project/member/controller/SearchController.java#L29))
+- [Sevice](#https://github.com/97siwon/bondProject/blob/main/Bond/src/main/java/kh/semi/project/member/model/service/SearchServiceImpl.java#L20)
 <br>
 </details>
 
